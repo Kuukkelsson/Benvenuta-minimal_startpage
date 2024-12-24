@@ -21,10 +21,11 @@
 /* --main-fg:#ebdbb2;   */
 /* --main-fg2:#d65d0e;   */
 /* tokyonight */
---main-bg:#ffffff;  
---main-bg2:#1f2335;  
---main-fg:#c0caf5;  
---main-fg2:#7dcfff;  
+  /* Color when typing search */
+--main-bg:  #aaaaaa;
+--main-bg2: #1f2335;  
+--main-fg:  #c0caf5;  
+--main-fg2: #7dcfff;  
 /* nord */
 /* --main-bg:#2e3440;    */
 /* --main-bg2:#3b4252; */
